@@ -1,0 +1,1 @@
+{ "name": "turn-timer", "version": "0.1.0", "description": "Shows 'Working for…' / 'Worked for…' above the prompt, plus your Codex usage limits", "license": "MIT", "types": "./types/index.d.ts" }

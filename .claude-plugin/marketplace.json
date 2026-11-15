@@ -1,0 +1,1 @@
+{ "name": "claude-turn-timer", "owner": { "name": "gaecutie" }, "plugins": [ { "name": "turn-timer", "source": "./plugins/turn-timer", "description": "Working/worked-for timer above the prompt, plus Codex usage limits" } ] }
